@@ -1,6 +1,6 @@
 ### Ramingo · SOsintOps
 
-Open-source tools for **OSINT** and **cyber threat intelligence**: ready-to-use investigation workstations, curated search toolkits and intelligence aggregators.
+I've been doing OSINT in Italy for 20 years. These are the tools I built when I couldn't find the right one.
 
 #### Investigation workstations
 - **[Argos](https://github.com/SOsintOps/Argos)** — turns a clean Ubuntu 24.04 VM into a complete OSINT workstation
